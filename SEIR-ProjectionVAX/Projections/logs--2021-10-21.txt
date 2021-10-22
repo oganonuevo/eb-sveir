@@ -1,0 +1,385 @@
+2021-10-21 17:38 -- AL4_Negros oriental_SC1 -- Active 
+2021-10-21 17:38 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:38 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:38 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.5004104232', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509', 'v2Value': '1124;1865;2247;2509', 'jValue': '0;0;1532;0'})
+2021-10-21 17:38 -- AL4_Negros oriental_SC2 -- Active 
+2021-10-21 17:38 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:38 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:38 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.2924191193', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;5017.790046', 'v2Value': '1124;1865;2247;2509;5017.790046', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:38 -- AL4_Negros oriental_SC3 -- Active 
+2021-10-21 17:38 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:38 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:38 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.002106466882', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;7526.685069', 'v2Value': '1124;1865;2247;2509;7526.685069', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:38 -- AL4_Negros oriental_SC1 -- Cumulative 
+2021-10-21 17:38 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:38 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:38 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0.3853266189', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509', 'v2Value': '1124;1865;2247;2509', 'jValue': '0;0;1532;0'})
+2021-10-21 17:38 -- AL4_Negros oriental_SC2 -- Cumulative 
+2021-10-21 17:38 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:38 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:38 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0.2207039287', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;5017.790046', 'v2Value': '1124;1865;2247;2509;5017.790046', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:38 -- AL4_Negros oriental_SC3 -- Cumulative 
+2021-10-21 17:38 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:38 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:38 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;7526.685069', 'v2Value': '1124;1865;2247;2509;7526.685069', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:38 -- AL3_Siquijor_SC1 -- Active 
+2021-10-21 17:38 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:38 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:38 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.5082247523', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179', 'v2Value': '80;133;160;179', 'jValue': '0;0;109;0'})
+2021-10-21 17:38 -- AL3_Siquijor_SC2 -- Active 
+2021-10-21 17:39 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:39 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:39 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.2994568491', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;358.4434793', 'v2Value': '80;133;160;179;358.4434793', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:39 -- AL3_Siquijor_SC3 -- Active 
+2021-10-21 17:39 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:39 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:39 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.005625331775', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;537.665219', 'v2Value': '80;133;160;179;537.665219', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:39 -- AL3_Siquijor_SC1 -- Cumulative 
+2021-10-21 17:39 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:39 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:39 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.6605322252', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179', 'v2Value': '80;133;160;179', 'jValue': '0;0;109;0'})
+2021-10-21 17:39 -- AL3_Siquijor_SC2 -- Cumulative 
+2021-10-21 17:39 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:39 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:39 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.4366277855', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;358.4434793', 'v2Value': '80;133;160;179;358.4434793', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:39 -- AL3_Siquijor_SC3 -- Cumulative 
+2021-10-21 17:39 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:39 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:39 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.07421079996', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;537.665219', 'v2Value': '80;133;160;179;537.665219', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:39 -- AL3_NCR-National capital region_SC1 -- Active 
+2021-10-21 17:39 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:39 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:39 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-10-31;2021-12-31', 'lambdaValuesInput': '0.04518632215;0.0402311138;0.3008079383;0.6050549548;0.6050549548;0.3848651755', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;20443;40570;2661', 'v2Value': '70645;30199;86059;39861;6284', 'jValue': '5715;3229;86;253;0'})
+2021-10-21 17:39 -- AL3_NCR-National capital region_SC2 -- Active 
+2021-10-21 17:39 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:39 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:39 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-10-31;2021-12-31', 'lambdaValuesInput': '0.04518632215;0.0402311138;0.3008079383;0.6050549548;0.6050549548;0', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;20443;40570;2661', 'v2Value': '70645;30199;86059;39861;6284', 'jValue': '5715;3229;86;253;0'})
+2021-10-21 17:39 -- AL3_NCR-National capital region_SC1 -- Cumulative 
+2021-10-21 17:40 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:40 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:40 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-11-30;2021-12-31', 'lambdaValuesInput': '0.2752658809;0;0.1958834241;0.5473809577;0.5473809577;0.3297284788', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;21844;14322', 'v2Value': '70645;30199;98968;17950', 'jValue': '5715;3229;108;0'})
+2021-10-21 17:40 -- AL3_NCR-Nationals capital region_SC2 -- Cumulative 
+2021-10-21 17:40 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:40 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:40 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-11-30;2021-12-31', 'lambdaValuesInput': '0.2752658809;0;0.1958834241;0.5473809577;0.5473809577;0', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;21844;14322', 'v2Value': '70645;30199;98968;17950', 'jValue': '5715;3229;108;0'})
+2021-10-21 17:41 -- AL4_Negros oriental_SC1 -- Active 
+2021-10-21 17:41 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:41 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:41 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.5004104232', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509', 'v2Value': '1124;1865;2247;2509', 'jValue': '0;0;1532;0'})
+2021-10-21 17:41 -- AL4_Negros oriental_SC2 -- Active 
+2021-10-21 17:41 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:41 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:41 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.2924191193', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;5017.790046', 'v2Value': '1124;1865;2247;2509;5017.790046', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:41 -- AL4_Negros oriental_SC3 -- Active 
+2021-10-21 17:41 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:41 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:41 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.002106466882', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;7526.685069', 'v2Value': '1124;1865;2247;2509;7526.685069', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:41 -- AL4_Negros oriental_SC1 -- Cumulative 
+2021-10-21 17:41 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:41 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:41 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0.3853266189', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509', 'v2Value': '1124;1865;2247;2509', 'jValue': '0;0;1532;0'})
+2021-10-21 17:41 -- AL4_Negros oriental_SC2 -- Cumulative 
+2021-10-21 17:41 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:41 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:41 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0.2207039287', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;5017.790046', 'v2Value': '1124;1865;2247;2509;5017.790046', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:41 -- AL4_Negros oriental_SC3 -- Cumulative 
+2021-10-21 17:42 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;7526.685069', 'v2Value': '1124;1865;2247;2509;7526.685069', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:42 -- AL3_Siquijor_SC1 -- Active 
+2021-10-21 17:42 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.5082247523', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179', 'v2Value': '80;133;160;179', 'jValue': '0;0;109;0'})
+2021-10-21 17:42 -- AL3_Siquijor_SC2 -- Active 
+2021-10-21 17:42 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.2994568491', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;358.4434793', 'v2Value': '80;133;160;179;358.4434793', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:42 -- AL3_Siquijor_SC3 -- Active 
+2021-10-21 17:42 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.005625331775', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;537.665219', 'v2Value': '80;133;160;179;537.665219', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:42 -- AL3_Siquijor_SC1 -- Cumulative 
+2021-10-21 17:42 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.6605322252', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179', 'v2Value': '80;133;160;179', 'jValue': '0;0;109;0'})
+2021-10-21 17:42 -- AL3_Siquijor_SC2 -- Cumulative 
+2021-10-21 17:42 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.4366277855', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;358.4434793', 'v2Value': '80;133;160;179;358.4434793', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:42 -- AL3_Siquijor_SC3 -- Cumulative 
+2021-10-21 17:42 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.07421079996', 'HcLevel': '0.16', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;537.665219', 'v2Value': '80;133;160;179;537.665219', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:42 -- AL3_NCR-National capital region_SC1 -- Active 
+2021-10-21 17:42 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:42 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-10-31;2021-12-31', 'lambdaValuesInput': '0.04518632215;0.0402311138;0.3008079383;0.6050549548;0.6050549548;0.3848651755', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;20443;40570;2661', 'v2Value': '70645;30199;86059;39861;6284', 'jValue': '5715;3229;86;253;0'})
+2021-10-21 17:42 -- AL3_NCR-National capital region_SC2 -- Active 
+2021-10-21 17:43 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:43 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:43 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-10-31;2021-12-31', 'lambdaValuesInput': '0.04518632215;0.0402311138;0.3008079383;0.6050549548;0.6050549548;0', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;20443;40570;2661', 'v2Value': '70645;30199;86059;39861;6284', 'jValue': '5715;3229;86;253;0'})
+2021-10-21 17:43 -- AL3_NCR-National capital region_SC1 -- Cumulative 
+2021-10-21 17:43 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:43 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:43 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-11-30;2021-12-31', 'lambdaValuesInput': '0.2752658809;0;0.1958834241;0.5473809577;0.5473809577;0.3297284788', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;21844;14322', 'v2Value': '70645;30199;98968;17950', 'jValue': '5715;3229;108;0'})
+2021-10-21 17:43 -- AL3_NCR-Nationals capital region_SC2 -- Cumulative 
+2021-10-21 17:43 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:43 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:43 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-11-30;2021-12-31', 'lambdaValuesInput': '0.2752658809;0;0.1958834241;0.5473809577;0.5473809577;0', 'HcLevel': '0.18', 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;21844;14322', 'v2Value': '70645;30199;98968;17950', 'jValue': '5715;3229;108;0'})
+2021-10-21 17:44 -- AL4_Negros oriental_SC1 -- Active 
+2021-10-21 17:49 -- AL4_Negros oriental_SC1 -- Active 
+2021-10-21 17:49 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:49 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:49 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.5004104232', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509', 'v2Value': '1124;1865;2247;2509', 'jValue': '0;0;1532;0'})
+2021-10-21 17:49 -- AL4_Negros oriental_SC2 -- Active 
+2021-10-21 17:49 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:49 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:49 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.2924191193', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;5017.790046', 'v2Value': '1124;1865;2247;2509;5017.790046', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:49 -- AL4_Negros oriental_SC3 -- Active 
+2021-10-21 17:49 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:49 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:49 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5004104232;0;0;0.5004104232;0.002106466882', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;7526.685069', 'v2Value': '1124;1865;2247;2509;7526.685069', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:49 -- AL4_Negros oriental_SC1 -- Cumulative 
+2021-10-21 17:49 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:49 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:49 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0.3853266189', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509', 'v2Value': '1124;1865;2247;2509', 'jValue': '0;0;1532;0'})
+2021-10-21 17:49 -- AL4_Negros oriental_SC2 -- Cumulative 
+2021-10-21 17:49 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:49 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:49 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0.2207039287', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;5017.790046', 'v2Value': '1124;1865;2247;2509;5017.790046', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:49 -- AL4_Negros oriental_SC3 -- Cumulative 
+2021-10-21 17:50 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 74600000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '74600000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.593561729;0;0;0.3853266189;0', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '1119;3588;1239;2509;7526.685069', 'v2Value': '1124;1865;2247;2509;7526.685069', 'jValue': '0;0;1532;0;0'})
+2021-10-21 17:50 -- AL3_Siquijor_SC1 -- Active 
+2021-10-21 17:50 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.5082247523', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179', 'v2Value': '80;133;160;179', 'jValue': '0;0;109;0'})
+2021-10-21 17:50 -- AL3_Siquijor_SC2 -- Active 
+2021-10-21 17:50 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.2994568491', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;358.4434793', 'v2Value': '80;133;160;179;358.4434793', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:50 -- AL3_Siquijor_SC3 -- Active 
+2021-10-21 17:50 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.5082247523;0;0;0.5082247523;0.005625331775', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;537.665219', 'v2Value': '80;133;160;179;537.665219', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:50 -- AL3_Siquijor_SC1 -- Cumulative 
+2021-10-21 17:50 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.6605322252', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179', 'v2Value': '80;133;160;179', 'jValue': '0;0;109;0'})
+2021-10-21 17:50 -- AL3_Siquijor_SC2 -- Cumulative 
+2021-10-21 17:50 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.4366277855', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;358.4434793', 'v2Value': '80;133;160;179;358.4434793', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:50 -- AL3_Siquijor_SC3 -- Cumulative 
+2021-10-21 17:50 -- deltaS 0.16 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 76100000
+DeltaS: 0.16
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '76100000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-12-31', 'lambdaValuesInput': '0.6605322252;0;0;0.6605322252;0.07421079996', 'HcLevel': 0.16, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '80;256;89;179;537.665219', 'v2Value': '80;133;160;179;537.665219', 'jValue': '0;0;109;0;0'})
+2021-10-21 17:50 -- AL3_NCR-National capital region_SC1 -- Active 
+2021-10-21 17:50 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:50 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:50 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-10-31;2021-12-31', 'lambdaValuesInput': '0.04518632215;0.0402311138;0.3008079383;0.6050549548;0.6050549548;0.3848651755', 'HcLevel': 0.18, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;20443;40570;2661', 'v2Value': '70645;30199;86059;39861;6284', 'jValue': '5715;3229;86;253;0'})
+2021-10-21 17:50 -- AL3_NCR-National capital region_SC2 -- Active 
+2021-10-21 17:51 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:51 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Active
+
+2021-10-21 17:51 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-10-31;2021-12-31', 'lambdaValuesInput': '0.04518632215;0.0402311138;0.3008079383;0.6050549548;0.6050549548;0', 'HcLevel': 0.18, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;20443;40570;2661', 'v2Value': '70645;30199;86059;39861;6284', 'jValue': '5715;3229;86;253;0'})
+2021-10-21 17:51 -- AL3_NCR-National capital region_SC1 -- Cumulative 
+2021-10-21 17:51 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:51 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:51 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-11-30;2021-12-31', 'lambdaValuesInput': '0.2752658809;0;0.1958834241;0.5473809577;0.5473809577;0.3297284788', 'HcLevel': 0.18, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;21844;14322', 'v2Value': '70645;30199;98968;17950', 'jValue': '5715;3229;108;0'})
+2021-10-21 17:51 -- AL3_NCR-Nationals capital region_SC2 -- Cumulative 
+2021-10-21 17:51 -- deltaS 0.18 -- 2021-10-20
+2021-10-21 17:51 -- PSGC: 130000000
+DeltaS: 0.18
+StartHSC: 2021-10-20
+Fit: Cumulative
+
+2021-10-21 17:51 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-30;2021-10-19;2021-11-30;2021-12-31', 'lambdaValuesInput': '0.2752658809;0;0.1958834241;0.5473809577;0.5473809577;0', 'HcLevel': 0.18, 'startHcDate': '2021-10-20', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;21844;14322', 'v2Value': '70645;30199;98968;17950', 'jValue': '5715;3229;108;0'})

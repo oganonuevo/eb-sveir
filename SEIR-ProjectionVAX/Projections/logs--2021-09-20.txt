@@ -1,0 +1,16 @@
+2021-09-20 11:42 -- NCR -- Active 
+2021-09-20 11:42 -- deltaS 0.22 -- 2021-09-01
+2021-09-20 11:42 -- PSGC: 130000000
+DeltaS: 0.22
+StartHSC: 2021-09-01
+Fit: Active
+
+2021-09-20 11:42 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-16;2021-09-19;2021-09-26;2021-10-03;2021-10-10;2021-10-17;2021-10-24;2021-10-31;2021-11-07;2021-11-14;2021-11-21', 'lambdaValuesInput': '0.1297628385;0;0;0.00000;0.00000;0.00000;0.00000;0.00000;0.00000;0.00000;0.00000;0.00000;0.00000', 'HcLevel': '0.22', 'startHcDate': '2021-09-01', 'scaleLevel': 0, 'fitParamToUse': 'Active', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;30390;30586', 'v2Value': '70645;30199;117968;27354', 'jValue': '5715;3229;209;0'})
+2021-09-20 11:42 -- NCR -- Cumulative 
+2021-09-20 11:43 -- deltaS 0.2 -- 2021-09-01
+2021-09-20 11:43 -- PSGC: 130000000
+DeltaS: 0.2
+StartHSC: 2021-09-01
+Fit: Cumulative
+
+2021-09-20 11:43 -- ('http://localhost:7177/getProjections', {'psgcInput': '130000000', 'projectionDuration': '365', 'lambdaDateInput': '2021-07-31;2021-08-31;2021-09-16;2021-09-19;2021-09-26;2021-10-03;2021-10-10;2021-10-17;2021-10-24;2021-10-31;2021-11-07;2021-11-14;2021-11-21', 'lambdaValuesInput': '0.2689249653;0;0.07458152214;0.07458;0.07435;0.07424;0.07418;0.07415;0.07414;0.07413;0.07413;0.07412;0.07412', 'HcLevel': '0.2', 'startHcDate': '2021-09-01', 'scaleLevel': 0, 'fitParamToUse': 'Cumulative', 'interventionCompliance': 0, 'interventionPercentage': 0, 'interventionEndDate': '2025-01-01', 'interventionStartDate': '2020-12-01', 'dateAdjustment': 'FALSE', 'v1Value': '38903;101427;30390;30586', 'v2Value': '70645;30199;117968;27354', 'jValue': '5715;3229;209;0'})
